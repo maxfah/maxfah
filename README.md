@@ -1,8 +1,6 @@
 # Max Fahrenkrug
 I am a student at the University of Notre Dame majoring in Electrical Engineering & Applied and Computational Mathematics
 * I am currently researching under Dr. Dirk Colbry as part of the Michigan State SEE-Insight Research Team
-* Email: mfahrenk@nd.edu
-* LinkedIn: https://wwwlinkedin.com/in/maxfahrenkrug/
 
 <!--
 **maxfah/maxfah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
